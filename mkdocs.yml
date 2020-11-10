@@ -1,5 +1,6 @@
 site_name: Nick's First Doc
 nav:
+  - Home: index.md
   - MKDocs Class: tictactoe.md
 theme:
   name: readthedocs
