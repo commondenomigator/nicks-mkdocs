@@ -1,0 +1,7 @@
+site_name: Nick's First Doc
+nav:
+  - MKDocs Class: setup.yml
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages: ['lua', 'javascript', 'python', 'c']
