@@ -1,6 +1,6 @@
 site_name: Nick's First Doc
 nav:
-  - MKDocs Class: setup.yml
+  - MKDocs Class: tictactoe.md
 theme:
   name: readthedocs
   highlightjs: true
